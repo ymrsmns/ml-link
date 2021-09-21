@@ -10,6 +10,7 @@
 
 - [Как настроить количество и размер деревьев решений с помощью XGBoost в Python](https://www.machinelearningmastery.ru/tune-number-size-decision-trees-xgboost-python/)
 - [Метод предварительной обработки данных на основе НЛП для повышения точности модели прогнозирования](https://www.machinelearningmastery.ru/nlp-based-data-preprocessing-method-to-improve-prediction-model-accuracy-30b408a1865f/)
+- [Тестирование конвейеров машинного обучения (ML)](https://www.machinelearningmastery.ru/testing-your-machine-learning-ml-pipelines-81f9c436727c/)
 
 ## MeetUp
 
