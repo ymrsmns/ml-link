@@ -3,7 +3,7 @@
 ## Intro
 
 - [с азов](https://www.youtube.com/c/miracl6)
-- 
+
 - [Статистика и котики(2018)](http://info.levandovskiy.info/wp-content/uploads/2018/10/Statistika_i_kotiki.pdf)
 
 - [Не изобретать велосипед, или Обзор модуля collections в Python](https://proglib.io/p/ne-izobretat-velosiped-ili-obzor-modulya-collections-v-python-2019-12-15)
