@@ -2,7 +2,7 @@
 
 ## Intro
 
-- [с азов](https://www.youtube.com/c/miracl6)
+ - [Обучение Machine Learning c НУЛЯ](https://www.youtube.com/watch?v=EHVmseAhkx0&list=PLXgqe2js59nvgsT6-ln_ARnFlkBukGpLH&ab_channel=miracl6) [(Автор)](https://www.youtube.com/c/miracl6)
 
 - [Статистика и котики(2018)](http://info.levandovskiy.info/wp-content/uploads/2018/10/Statistika_i_kotiki.pdf)
 
