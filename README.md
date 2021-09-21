@@ -17,6 +17,7 @@
 
 ## Level 1
 - [Как развитие алгоритмов сжатия остановилось 20 лет назад, или о новом конкурсе на 200 тысяч евро](https://habr.com/ru/post/570694/)
+- [SHAP почему модель приняла такое решение](https://shap.readthedocs.io/en/latest/example_notebooks/tabular_examples/tree_based_models/Basic%20SHAP%20Interaction%20Value%20Example%20in%20XGBoost.html) (EN)
 
 ## Level 2
 - [Туториал: создание простой GAN на Python с библиотекой Keras](https://neurohive.io/ru/tutorial/simple-gan-python-keras/) (RU)
